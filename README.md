@@ -31,8 +31,8 @@ This project is a simple Investment Portfolio Management application built with 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone <github.com/romebechor/StockProject>
+    cd <StockProject>
     ```
 2.  **Install dependencies:**
     ```bash
